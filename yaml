@@ -1,0 +1,20 @@
+
+---
+
+## 🏗️ Model Architecture
+
+- Base: `VGG16` (pre-trained on ImageNet, frozen layers)
+- Custom head:
+  - `GlobalAveragePooling2D`
+  - `Dense(256, relu)` → `Dropout(0.5)`
+  - `Dense(128, relu)` → `Dropout(0.5)`
+  - `Dense(4, softmax)` for classification
+
+---
+
+## 🚀 How to Run
+
+### 1. Train the Model (optional)
+
+```bash
+python train_model.py
