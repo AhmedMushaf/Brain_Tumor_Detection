@@ -1,0 +1,29 @@
+╔══════════════════════════════════════╗
+║          MEDICAL DIAGNOSTIC REPORT          ║
+╚══════════════════════════════════════╝
+
+🧑‍⚕️ Patient Information
+----------------------------------
+Name         : Mohith
+Patient ID   : M-326276
+Age          : 29
+Gender       : Male
+Date & Time  : 2025-05-18 | 23:10:19
+
+📝 Clinical Summary
+----------------------------------
+Severe Headache
+
+🧠 Tumor Detection Results
+----------------------------------
+Tumor Present : Yes
+Tumor Type    : pituitary tumor
+
+📌 Medical Advice
+----------------------------------
+Pituitary tumors may affect hormones. Endocrinologist consultation advised.
+
+══════════════════════════════════════
+This is a computer-generated preliminary report.
+Consult a specialist for confirmation and treatment.
+══════════════════════════════════════
